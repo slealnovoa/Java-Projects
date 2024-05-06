@@ -1,4 +1,4 @@
-package Lab5;
+package Backend;
 
 public enum DatabaseTypes {
     game,

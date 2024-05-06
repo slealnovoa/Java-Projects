@@ -1,4 +1,4 @@
-package Lab5_UI;
+package UI;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -10,10 +10,10 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
-import Lab5.DatabaseController;
-import Lab5.GameStat;
-import Lab5.Game;
-import Lab5.Player;
+import Backend.DatabaseController;
+import Backend.GameStat;
+import Backend.Game;
+import Backend.Player;
 
 import java.time.LocalDate;
 

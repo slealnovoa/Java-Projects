@@ -1,4 +1,4 @@
-package Exercise1;
+package TransactionHandler;
 
 
 public class Transaction implements Runnable{

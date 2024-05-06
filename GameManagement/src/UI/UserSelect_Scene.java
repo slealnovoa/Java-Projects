@@ -1,4 +1,4 @@
-package Lab5_UI;
+package UI;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -10,8 +10,8 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import Lab5.DatabaseController;
-import Lab5.Player;
+import Backend.DatabaseController;
+import Backend.Player;
 
 
 //Main Window Scene for selecting user.

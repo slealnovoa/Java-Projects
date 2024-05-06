@@ -1,4 +1,4 @@
-package exercise3;
+package MortgageCalculator;
 
 public class PersonalMortgage extends Mortgage{
 	public PersonalMortgage(int mortgage_number, String customer_name, double mortgage_amount, double interest_rate, int term)

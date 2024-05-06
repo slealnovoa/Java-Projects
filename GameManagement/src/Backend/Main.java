@@ -1,8 +1,8 @@
-package Lab5;
+package Backend;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
-import Lab5_UI.UserSelect_Scene;
+import UI.UserSelect_Scene;
 
 public class Main extends Application {
 

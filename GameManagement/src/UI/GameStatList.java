@@ -1,10 +1,10 @@
-package Lab5_UI;
+package UI;
 
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.VBox;
 import Lab5.DatabaseController;
-import Lab5.GameStat;
-import Lab5.Player;
+import Backend.GameStat;
+import Backend.Player;
 
 
 public class GameStatList extends ScrollPane {

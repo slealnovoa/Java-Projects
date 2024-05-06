@@ -1,4 +1,4 @@
-package exercise3;
+package MortgageCalculator;
 import java.util.Scanner;
 
 public class ProcessMortgage {

@@ -1,4 +1,4 @@
-package exercise2;
+package GameTesterCalculator;
 
 public class FullTimeGameTester extends GameTester {
 

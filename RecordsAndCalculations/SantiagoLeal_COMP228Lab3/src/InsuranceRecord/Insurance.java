@@ -1,4 +1,4 @@
-package exercise1;
+package InsuranceRecord;
 
 public abstract class Insurance {
 	private String typeInsurance;

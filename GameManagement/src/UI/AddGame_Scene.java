@@ -1,4 +1,4 @@
-package Lab5_UI;
+package UI;
 
 
 import javafx.event.ActionEvent;
@@ -11,8 +11,8 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import Lab5.DatabaseController;
-import Lab5.Game;
+import Backend.DatabaseController;
+import Backend.Game;
 
 public class AddGame_Scene extends Scene{
 

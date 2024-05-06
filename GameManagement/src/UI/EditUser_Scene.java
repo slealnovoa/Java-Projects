@@ -1,4 +1,4 @@
-package Lab5_UI;
+package UI;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -8,7 +8,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import Lab5.Player;
+import Backend.Player;
 
 
 public class EditUser_Scene extends Scene {

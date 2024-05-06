@@ -1,10 +1,10 @@
-package Lab5_UI;
+package UI;
 
 import javafx.event.EventHandler;
 import javafx.scene.control.Label;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.HBox;
-import Lab5.GameStat;
+import Backend.GameStat;
 
 public class GameStatListItem extends HBox {
 GameStatListItem listItem;

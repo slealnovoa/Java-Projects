@@ -1,4 +1,4 @@
-package exercise3;
+package MortgageCalculator;
 
 public abstract class Mortgage implements MortgageConstants{
 

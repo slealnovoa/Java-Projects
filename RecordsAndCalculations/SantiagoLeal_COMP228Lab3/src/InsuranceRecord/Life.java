@@ -1,4 +1,4 @@
-package exercise1;
+package InsuranceRecord;
 
 public class Life extends Insurance{
 	public Life() {

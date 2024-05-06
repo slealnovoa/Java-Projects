@@ -1,4 +1,4 @@
-package exercise2;
+package GameTesterCalculator;
 import java.util.Scanner;
 
 public class TestingClass {

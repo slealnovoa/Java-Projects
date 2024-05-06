@@ -1,4 +1,4 @@
-package exercise3;
+package MortgageCalculator;
 
 public interface MortgageConstants {
 	

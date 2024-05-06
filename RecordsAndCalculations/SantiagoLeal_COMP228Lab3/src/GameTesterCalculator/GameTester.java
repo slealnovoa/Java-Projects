@@ -1,4 +1,4 @@
-package exercise2;
+package GameTesterCalculator;
 
 public abstract class GameTester {
 	
